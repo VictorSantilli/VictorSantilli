@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning JS an React
 - 📫 How to reach me, victorsantilli.work@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-    
 ## Biografia
 
 Prazer tenho 19 anos, e estou cursando Ciencia da Computacao na universidade UNIP(Jan 2023 - Dez 2026). De comeco procurei muita a area Front-end, mas ainda tenho muito a conhecer das outras. Sendo assim estou sempre em busca de conhecimento. Amo tecnologia, aprendo e desenvolvo habilidades tecnicas muito rapidamente.<br><br>
