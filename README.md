@@ -7,7 +7,7 @@ Prazer tenho 19 anos, e estou cursando Ciencia da Computacao na universidade UNI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
     
-![Static Badge](https://img.shields.io/badge/Meu_perfil_na_DIO-blue?style=flat&link=https%3A%2F%2Fwww.dio.me%2Fusers%2Fvictorsantilli)
+[![Static Badge](https://img.shields.io/badge/Meu_perfil_na_DIO-blue?style=flat&link=https%3A%2F%2Fwww.dio.me%2Fusers%2Fvictorsantilli)](https://www.dio.me/users/victorsantilli)
 
 ## Hard Skills
 
