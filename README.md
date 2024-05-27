@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @VictorSantilli
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning JS an React
+- 👋 Oi, Eu sou @VictorSantilli
 - 📫 How to reach me, victorsantilli.work@gmail.com
 
 ## Biografia
