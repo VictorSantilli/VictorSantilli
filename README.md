@@ -29,11 +29,18 @@ Sou um estagiario em desenvolvimento full stack, tenho 20 anos, e cada vez mais 
 
 ---
 
-## 📊 Estatísticas
+## 📈 Estatísticas do GitHub
 
-[![VictorSantilli](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorSantilli&show_icons=true&theme=radical&hide=issues&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantilli&layout=compact&theme=radical)
 
 ---
+
+## 🏆 Conquistas no GitHub
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=VictorSantilli&theme=onedark&no-frame=true&title=Commits,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!---
 VictorSantilli/VictorSantilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
