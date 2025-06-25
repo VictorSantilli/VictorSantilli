@@ -8,9 +8,7 @@
 
 ## 💡 Sobre mim
 
-Tenho 19 anos e sou estudante de Ciência da Computação na UNIP. Desde o início da minha jornada, me interessei por desenvolvimento Front-end, mas estou sempre aberto a explorar outras áreas da tecnologia.
-
-Sou movido por desafios e pela vontade constante de aprender. Gosto de mergulhar em novos assuntos e tenho facilidade para desenvolver habilidades técnicas rapidamente.
+Sou um estagiario em desenvolvimento full stack, tenho 20 anos, e cada vez mais busco melhorar e mergulhar nesse mar que é a área de tecnologia
 
 ---
 
@@ -23,11 +21,11 @@ Sou movido por desafios e pela vontade constante de aprender. Gosto de mergulhar
 
 ## 🛠️ Hard Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
