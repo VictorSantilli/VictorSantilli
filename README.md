@@ -31,7 +31,7 @@ Sou um estagiario em desenvolvimento full stack, tenho 20 anos, e cada vez mais 
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VictorSantilli&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
