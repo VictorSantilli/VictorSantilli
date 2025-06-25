@@ -1,21 +1,42 @@
-- 👋 Oi, Eu sou @VictorSantilli
-- 📫 How to reach me, victorsantilli.work@gmail.com
+## 👋 Olá, eu sou o Victor Santilli
 
-## Biografia
+- 🎓 Estudante de Ciência da Computação na UNIP (Jan/2023 - Dez/2026)
+- 💻 Apaixonado por tecnologia e desenvolvimento
+- 📫 Entre em contato: victorsantilli.work@gmail.com
 
-Prazer tenho 19 anos, e estou cursando Ciencia da Computacao na universidade UNIP(Jan 2023 - Dez 2026). De comeco procurei muita a area Front-end, mas ainda tenho muito a conhecer das outras. Sendo assim estou sempre em busca de conhecimento. Amo tecnologia, aprendo e desenvolvo habilidades tecnicas muito rapidamente.<br><br>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-    
-[![Static Badge](https://img.shields.io/badge/Meu_perfil_na_DIO-blue?style=flat&link=https%3A%2F%2Fwww.dio.me%2Fusers%2Fvictorsantilli)](https://www.dio.me/users/victorsantilli)
+## 💡 Sobre mim
 
-## Hard Skills
+Tenho 19 anos e sou estudante de Ciência da Computação na UNIP. Desde o início da minha jornada, me interessei por desenvolvimento Front-end, mas estou sempre aberto a explorar outras áreas da tecnologia.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+Sou movido por desafios e pela vontade constante de aprender. Gosto de mergulhar em novos assuntos e tenho facilidade para desenvolver habilidades técnicas rapidamente.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VictorSantilli&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorsantilli)  
+[![Perfil na DIO](https://img.shields.io/badge/Meu_perfil_na_DIO-102770?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/victorsantilli)
+
+---
+
+## 🛠️ Hard Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VictorSantilli&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9)
+
+---
 
 <!---
 VictorSantilli/VictorSantilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
