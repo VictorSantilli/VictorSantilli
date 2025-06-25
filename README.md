@@ -35,12 +35,6 @@ Sou um estagiario em desenvolvimento full stack, tenho 20 anos, e cada vez mais 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantilli&layout=compact&theme=radical)
 
----
-
-## 🏆 Conquistas no GitHub
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=VictorSantilli&theme=onedark&no-frame=true&title=Commits,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <!---
 VictorSantilli/VictorSantilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
