@@ -3,11 +3,9 @@
 - 🎓 Estudante de Ciência da Computação na UNIP (Jan/2023 - Dez/2026)
 - 💻 Apaixonado por tecnologia, desenvolvimento e aprendizado constante
 - 📫 Entre em contato: [victorsantilli.work@gmail.com](mailto:victorsantilli.work@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/victor-santilli/) | [Instagram](https://www.instagram.com/) <!-- Adicione seu usuário aqui se quiser -->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/victorsantilli/) 
 
 ---
-
-<h2 align="left">Hi 👋! I'm Victor Santilli, a Computer Science student from Brazil 🇧🇷</h2>
 
 ###
 
@@ -35,8 +33,3 @@
 </div>
 
 ###
-
-
-<br clear="both">
-
-
